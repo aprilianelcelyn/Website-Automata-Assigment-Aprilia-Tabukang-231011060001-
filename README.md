@@ -1,2 +1,6 @@
-# Website-Automata-Assigment-Aprilia-Tabukang-231011060001-
-scientific number identification
+# Untitled
+
+A Pen created on CodePen.
+
+Original URL: [https://codepen.io/APRILIA-NELCELYN-TABUKANG/pen/pvoprBQ](https://codepen.io/APRILIA-NELCELYN-TABUKANG/pen/pvoprBQ).
+
